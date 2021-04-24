@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T09:17:52.800Z" agent="5.0 (X11)" etag="YTfo1TIdHhlbhYa368PM" version="14.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T09:28:38.500Z" agent="5.0 (X11)" etag="NZDLrQ8QMgmphe0c5ryz" version="14.6.6" type="github">
   <diagram id="8-Osw7H1qEfW-mOjbLTo" name="Page-1">
     <mxGraphModel dx="2489" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-2" value="Researcher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="20" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-3" value="Project Leader" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry y="375" width="30" height="60" as="geometry" />
+          <mxGeometry y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-7" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-2" target="i1ep3PuqfUPlPV-DkI8j-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -20,7 +20,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-8" value="Carries out researches" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-9" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-2" target="i1ep3PuqfUPlPV-DkI8j-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,7 +29,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-10" value="Works on Draft Proposals" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-11" value="" style="endArrow=classic;html=1;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-3" target="i1ep3PuqfUPlPV-DkI8j-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -41,7 +41,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-12" value="Approves funds" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-3" target="i1ep3PuqfUPlPV-DkI8j-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-14" value="Monitors project activities" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="435" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="435" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-16" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -67,7 +67,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-19" value="Manages payments to staff" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="810" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-20" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-16" target="i1ep3PuqfUPlPV-DkI8j-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,13 +79,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i1ep3PuqfUPlPV-DkI8j-21" value="Reads reports" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9kVaEm9KtMV1vTU9wIm8-4" target="9kVaEm9KtMV1vTU9wIm8-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-4" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="340" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-6" value="Out of funds" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="620" y="340" width="120" height="80" as="geometry" />
@@ -94,10 +94,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-9" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="740" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-11" value="error report generation" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="730" width="120" height="80" as="geometry" />
+          <mxGeometry x="590" y="720" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-13" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-16" target="9kVaEm9KtMV1vTU9wIm8-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-15" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="550" width="120" height="80" as="geometry" />
+          <mxGeometry x="430" y="570" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-17" value="failed update" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="550" width="120" height="80" as="geometry" />
@@ -124,18 +124,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-19" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="435" y="230" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9kVaEm9KtMV1vTU9wIm8-21" value="generate report at each step of research" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="620" y="240" width="120" height="80" as="geometry" />
+          <mxGeometry x="620" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4xYgW4ELGkqArTLc7ZA9-1" value="Assigns funds to projects" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4xYgW4ELGkqArTLc7ZA9-1" value="Assigns funds to projects" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="635" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4xYgW4ELGkqArTLc7ZA9-2" value="Requests funds for research" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="4xYgW4ELGkqArTLc7ZA9-2" value="Requests funds for research" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="30" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4xYgW4ELGkqArTLc7ZA9-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="i1ep3PuqfUPlPV-DkI8j-2" target="4xYgW4ELGkqArTLc7ZA9-2">
+        <mxCell id="4xYgW4ELGkqArTLc7ZA9-3" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i1ep3PuqfUPlPV-DkI8j-2" target="4xYgW4ELGkqArTLc7ZA9-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="100" as="sourcePoint" />
             <mxPoint x="100" y="50" as="targetPoint" />
